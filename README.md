@@ -1,5 +1,7 @@
 # basedev
 
+Base de testes para módulos e componentes com o Vue, para ser utilizado em outros serviços
+
 ## Project setup
 ```
 npm install
